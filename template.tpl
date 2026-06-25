@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "ForCookie",
+  "categories" : ["TAG_MANAGEMENT", "PERSONALIZATION"],
   "brand": {
     "id": "ForCookie",
     "displayName": "ForCookieTeam",
