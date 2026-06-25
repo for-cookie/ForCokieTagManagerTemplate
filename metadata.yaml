@@ -17,3 +17,5 @@ documentation: "https://www.forcookie.com/en/forcookie-install-tagmanager/"
 versions:
   - sha: 82043ce01ca49fcec9d7f55b30e32f20c5dc8d85
     changeNotes: Initial Version
+  - sha: d8e8cdf6a83d772031d5db2818bf015025fe28aa
+    changeNotes: Add Category
